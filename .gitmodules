@@ -8,3 +8,8 @@
 	url = https://github.com/matmu/qtlizer
 	shallow = true
 	registered = true
+[submodule "MouseFM"]
+	path = MouseFM
+	url = https://github.com/matmu/mousefm
+	shallow = true
+	registered = true
