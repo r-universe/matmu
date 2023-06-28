@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MouseFM"]
 	path = MouseFM
 	url = https://github.com/matmu/mousefm
-	shallow = true
-	registered = true
 [submodule "Qtlizer"]
 	path = Qtlizer
 	url = https://github.com/matmu/qtlizer
-	shallow = true
-	registered = true
